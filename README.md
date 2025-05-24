@@ -61,14 +61,14 @@ Desenvolver uma API REST que permita:
    - **Lombok**: Para reduzir código boilerplate.
 4. Clique em **Generate** e baixe o projeto como `.zip`.
  ### Print da Configuração do Spring Initializr
-![Spring Initializr Configuração](https://github.com/Enrico-AD/brinquedos/blob/master/src/main/resources/initializr.png)
+![Spring Initializr Configuração](https://github.com/Enrico-AD/brinquedos/blob/main/src/main/resources/initializr.png)
 
 5. Extraia o arquivo e importe o projeto no IntelliJ IDEA:
    - File > Open > Selecione a pasta do projeto.
 6. Execute `mvn clean install` para baixar as dependências.
 
 ### Print da Configuração do Spring Initializr
-![Spring Initializr Configuração](https://github.com/Enrico-AD/brinquedos/blob/master/src/main/resources/unnamed.png)
+![Spring Initializr Configuração](https://github.com/Enrico-AD/brinquedos/blob/main/src/main/resources/unnamed.png)
 
 ## Configuração do Banco Oracle
 
